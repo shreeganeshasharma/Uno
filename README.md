@@ -15,14 +15,17 @@
 ## Code book (Common)
 - Accuracy statement: Date, Opponents, Rank, and Score are accurate/truth and were of interest.
 - **Date**: Date of the match.
-  - Unstructured, mostly MMDDYY or MDD.
-  - 17/Mar/2017 to 10/Mar/2018. Sometimes includes time if many sessions in a day.
-  - Inlcudes a few NA/text values.
+  - Unstructured, mostly MMDDYY or MDD for convenience.
+  - 17/Mar/2017 to 10/Mar/2019. Includes time if many sessions in a day from 26/Mar/2019.
+  - Inlcudes NA/text values in cells 2009, 2191, 4631, 4707.
+  - These NA, text and times are removed while cleaning. Repetitions are retained in cleaning as new session of the same day.
 - **Opponents**: Number of AI adversaries.
-  - Mostly 1 or 2. Maximum = 9.
+  - First 27 values are missing, but were mostly 1.
+  - Mostly 1 or 2. Maximum = 9. It ain't no fun if there are too many homies.
 - **Rank**: Author's rank in the leaderboard.
   - Removed Rank 3069 and 3070 to clean. These values were not recorded and imputed.
 - **Score**: Points won(positive) or lost(negative) in a game.
+  - Values 2009 and 3069 were not recorded and are missing in both files.
 
 - The following variables are derived or were recorded once in a while. They are NOT accurate in raw data.
 - **Global Score**: Cumulative sum of Score.
@@ -45,9 +48,9 @@
 ## Comments
 - The leaderboard is dynamic as new players join and players remove their accounts.
 - Inactive users retain their account and their Rank in the leaderboard changes as other players progress.
-- Caution: Unethical game endings/sign-out adds penalty and the host sometimes corrects score by a point or two after a prolonged absence.
-- Caution: There are some large spurious corrections in raw data that can not be explained by the author and were retained as is.
-- Disclaimer: The raw data is provided as-is and is not machine readable due to spurious NA/text values in columns.
+- **Caution**: Unethical game endings/sign-out adds penalty and the host sometimes corrects score by a point or two after a prolonged absence.
+- **Caution**: There are some large spurious corrections in raw data that can not be explained by the author and were retained as is.
+- **Disclaimer**: The raw data is provided **as-is** and is not machine readable due to spurious NA/text values in columns.
 
 ## More info
 - Report an issue to report an issue and to discuss access to the mood and strategies of the player and about 2000 more games till 2026 :).
