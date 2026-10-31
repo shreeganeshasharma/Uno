@@ -57,7 +57,8 @@
 - Report an issue to report an issue and to discuss access to the mood and strategies of the player and about 2000 more games till 2026 :).
 
 ## Current leaderboard
-<img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/45fdc3c2-f5cb-4ffd-9bfb-67d3bbd6790a" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/1db89970-abc4-4b05-b8d1-e4bb93893b54" />
+
 
 ## Player profile, 2017
 ### Points
