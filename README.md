@@ -4,7 +4,7 @@
 - **UNO.ods** - Raw data.
 - **UnoClean.xlsx** - Cleaned data.
 - ---
-- An ODS file containing scores of 5300 online Uno games against AI players. Use a spreadsheet software to open the file.
+- An ODS file containing scores of 5300 online Uno games against AI players. Use a spreadsheet software to open these files.
 - **Purpose**: To track the progress in online UNO.
 - **Method**: The author created a fresh account on the host platform and recorded the data after each game.
 - **Game settings** (Always)
@@ -86,3 +86,23 @@
 
 ### Games
 <img width="1127" height="528" alt="image" src="https://github.com/user-attachments/assets/2990ea4a-d088-4c65-8380-880de69ed3d3" />
+
+---
+## 📜 License, Attribution, and Data Usage
+- This dataset is an original work created and curated by the repository author. Considerable time and effort were invested in its collection, development, and organization. If you create an improved, cleaned, or modified version, I strongly encourage you to make it publicly available and acknowledge the original dataset. Open research, license, and patents are good, Trade secrets are bad.
+
+- This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+
+- Under this license, you are free to:
+  - Share and redistribute the dataset.
+  - Adapt, modify, and build upon the dataset.
+  - Use the dataset for non-commercial research and educational purposes.
+- Under the following conditions:
+  - Attribution: Appropriate credit must be given to the original creator.
+  - NonCommercial: The dataset cannot be used for commercial purposes.
+  - ShareAlike: Adaptations that are distributed must be shared under the same or a compatible license.
+- Acknowledgment and citation are required when using this dataset.
+
+<img width="1280" height="450" alt="image" src="https://github.com/user-attachments/assets/6a3b747b-b42a-4d9b-a4e9-206b556e5e57" />
+
+[Full license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
