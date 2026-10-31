@@ -10,7 +10,7 @@
   - Game speed = Very fast
   - Automatically sort your cards = TRUE.
   - **Host**: [Play-uno.com](https://www.play-uno.com/newgame.php)
-## File Uno.xlsx - Cleaned data.
+## File UnoClean.xlsx - Cleaned data.
 
 ## Code book (Common)
 - Accuracy statement: Date, Opponents, Rank, and Score are accurate/truth and were of interest.
