@@ -89,7 +89,7 @@
 
 ---
 ## 📜 License, Attribution, and Data Usage
-- This dataset is an original work created and curated by the repository author. Considerable time and effort were invested in its collection, development, and organization. If you create an improved, cleaned, or modified version, I strongly encourage you to make it publicly available and acknowledge the original dataset. Open research, license, and patents are good, Trade secrets are bad.
+- This dataset is an original work created and curated by the repository author. Considerable time and effort were invested in its collection, development, and organization. If you create an improved, cleaned, or modified version, I strongly encourage you to make it publicly available and acknowledge the original dataset. Open-research, license, and patents are good, boycott trade secrets.
 
 - This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
