@@ -43,6 +43,7 @@
   - **Worst Rank in one try**: Rank in 'Worst Score in one try'.
   - These change less frequently compared to Rank which changes every game.
   - Ranks in one try change if any other player wins or loses large scores in their games, and this is common when number of opponents is large.
+  - These Ranks give a very safe, conservative and bad estimate for the number of people using the host platform.
 - **Correction**: Reduce 'Global score' by 10,000 every time if crossed to retain 4 digits. See 'Caution' below.
 
 ## Comments
@@ -54,3 +55,27 @@
 
 ## More info
 - Report an issue to report an issue and to discuss access to the mood and strategies of the player and about 2000 more games till 2026 :).
+
+## Current leaderboard
+<img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/45fdc3c2-f5cb-4ffd-9bfb-67d3bbd6790a" />
+
+## Player profile, 2017
+### Points
+<img width="1129" height="529" alt="image" src="https://github.com/user-attachments/assets/980cbe9f-ab3c-452f-8cc2-2444ac617261" />
+
+### Games
+<img width="1129" height="529" alt="image" src="https://github.com/user-attachments/assets/531ce102-e97d-4fc5-85ed-6cd56ef40437" />
+
+## Player profile, 2018
+### Points
+<img width="1129" height="531" alt="image" src="https://github.com/user-attachments/assets/62228516-b154-4d6f-9e49-5d04f1e95bf6" />
+
+### Games
+<img width="1128" height="530" alt="image" src="https://github.com/user-attachments/assets/4836ed84-ac77-4290-beb7-d64391bf526b" />
+
+## Player profile, 2019
+### Points
+<img width="1129" height="532" alt="image" src="https://github.com/user-attachments/assets/227a62ba-385c-40a4-862d-5aebc579d43b" />
+
+### Games
+<img width="1127" height="528" alt="image" src="https://github.com/user-attachments/assets/2990ea4a-d088-4c65-8380-880de69ed3d3" />
